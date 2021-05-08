@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Node.js CRUD App'
+cover: './demo.jpg'
+github: 'https://github.com/bhatt-deep/crud-app-nodeJs'
+#external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
   - Node.js
   - Express
-  - Spotify Web API
+  - Docker
+  - GitlabCI
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Created Node.js Backend application from scratch as per the requirements.Enabled different key-requirements such as JWT Auth, middleware, testing, migrations.Built this web-app with docker functionality to automate the deployment with GitlabCI on Google Cloud Run.

@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a Toronto-based software engineer who specializes in building exceptional digital
-      experiences. Currently, I'm an student at <a href="https://www.yorku.ca/">York University</a>{' '}
+      experiences. Currently, I'm a student at <a href="https://www.yorku.ca/">York University</a>{' '}
       learning Backend and Blockchain Development.
     </p>
   );
