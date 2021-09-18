@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/Personal-Portfolio',
   siteMetadata: {
     title: 'Deep Bhatt',
     description: 'Deep Bhatt is a software engineer who specializes in building Web apps.',
